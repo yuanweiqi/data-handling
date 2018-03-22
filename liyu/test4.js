@@ -13,7 +13,7 @@ objReadline.on('line', (line) => {
   
     var xlsx = require('node-xlsx')
     
-    var excelName = '3990893f4127ab359fd0849723252f66.xlsx'
+    var excelName = './yuanwenjian/anonymized_data_for_third_party_speech_acts_batch3_feb2_2018(2).xlsx-1519798267854(2).xlsx'
     var list = xlsx.parse( excelName);
     //读出后是数组，包含每个sheet
   
@@ -25,7 +25,7 @@ objReadline.on('line', (line) => {
         if(a != null){
             console.log(a)
         }
-          //  r.push(a,a.input)
+          r.push(a)
  
       
 
@@ -46,13 +46,13 @@ objReadline.on('line', (line) => {
 
 var r = []
 objReadline.on('close', () => {
-    // for(var i in result) {
-    //    r.push(result[i])
-    // }
-    // fs.writeFile('key1.txt', JSON.stringify(r), 'utf-8', (err) => {
-    //     if (err) throw err;
-    //     console.log('It\'s saved!');
-    // });
+    for(var i in result) {
+       r.push(result[i])
+    }
+    fs.writeFile('key_anonymized_data_for_third_party_speech_acts_batch3_feb2_2018(2).xlsx-1519798267854(2).txt', JSON.stringify(r), 'utf-8', (err) => {
+        if (err) throw err;
+        console.log('It\'s saved!');
+    });
      
         });
 
