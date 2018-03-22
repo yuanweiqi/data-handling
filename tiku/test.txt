@@ -1,0 +1,259 @@
+crush
+dump
+Geek
+hooked
+Looker
+sick
+Epic Fail
+ripped 
+Loser
+Awesome
+Cool
+beat
+hang out
+Chill Out
+Wheels 
+amped
+Babe
+Busted 
+blast
+care less
+No bones
+take it on me 
+I am from Missouri 
+clock in 
+come on to
+come easily
+have a cow
+push around
+shirt on
+cool it
+joy ride
+go up in smoke
+hit the road
+shit out
+come again 
+come clean
+spring for
+john
+keep in line
+jump the gun
+jump to conclusion
+lemon
+fishy 
+flip out
+fix up
+take a shine to
+third wheel
+ripoff 
+rock the boat 
+blow it 
+in hot water
+foot in
+flop
+drop in
+drop by
+drop over
+drop a line 
+duck 
+go with the flow 
+act up
+ad lib
+blah-blah-blah
+hit it off
+zit 
+on the spot 
+horse around
+pass it up
+get the ball rolling
+get on the ball
+lay off
+knock it off
+have a passion for 
+pep talk
+brains
+pass out
+hit me with a problem
+hit you with a problem
+hit him with a problem
+have it bad for
+hung over
+has-been
+have a bone to pick with
+let the cat out of the bag
+in the market for 
+meddle in
+screw loose
+sell on
+hang in there
+hands-off
+gag me with a spoon
+get a move on
+cook up
+roll with the punches
+right off the bat
+get after
+get your feet wet
+screw him over
+screw you over
+buck
+blockhead
+blow the lid off
+put you round up
+put him round up
+take care of business
+hot stuff
+take out on
+nitty-gritty
+no good
+have your number
+have his number
+have her number
+hot number
+off the hook
+hunky-dory
+I kid you not
+pop \D+ cork
+poke \D+ nose into \\w+
+pull a fast one
+beats me
+beat it
+beat a dead horse
+John Hancock
+keep it under raps
+kick around
+junkie
+put away
+put a move on
+put \D+'s ass on the line
+drag
+a drop in the bucket
+drop dead
+down and out
+all that jazz
+know-it-all
+kooky
+let \\w+ have it
+a leg up
+low-life
+call it quits
+chip in
+a chip off the old block
+clean up \\w+ act
+cliffhanger
+bullheaded
+bum rap
+bummer
+burn someone up
+catch on to
+killing
+killing
+awsome
+great
+abominable
+atrocious
+dreadful
+terrible
+unspeakable
+painful
+nasty
+unpleasant
+lousy
+pathetic
+poor
+wretched
+abysmal
+dismal
+ghastly
+mean
+miserable
+worthless
+Turn up
+TBT
+Grind
+Chirped
+Doe
+Mupload that ish
+Swerve
+Swag money
+Am I right, ladies?
+I can't even
+Can I get an amen?
+Flannel Friday
+Kk
+Is that a thing?
+YAAASSSSSSSS
+Hashtag
+Killin it
+Sprang break
+Dat
+Mad
+Fam
+Turnt
+Fetch
+Van Halen
+Marilyn Manson
+David Hasselhoff
+Mariah Carey
+Foo Fighters
+Barbra Streisand
+Larry the Cable Guy
+Dustin Diamond
+Lady Gaga
+Britney Spears
+Madonna
+Eminem
+Katy Perry
+Steve Martin
+Pauly D
+Kanye West
+Drake
+Adele
+DMX
+Christina Aguilera
+Justin Timberlake
+Taylor Swift
+Grace Jones
+Selena Gomez
+Kevin Hart
+Lindsay Lohan
+Cher
+Prince
+Rihanna
+Jack White
+BAE 
+Basic 
+Bruh 
+Curve 
+Dead 
+Down in the DM 
+Fam 
+Finna 
+Goals 
+GOAT 
+Gucci 
+High-key 
+Hundo P 
+I can’t even 
+I’m weak 
+It’s lit 
+Kek 
+Low-key
+On fleek, on point 
+Peep 
+RT
+Salty 
+Savage 
+Ship 
+Sips tea 
+Skurt 
+Smash 
+Straight fire 
+Squad
+Sus
+Swipe left 
+Swipe right
+TBH
+Thirsty
+Throw shade
+Vibes
