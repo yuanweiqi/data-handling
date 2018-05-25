@@ -158,21 +158,21 @@ for (var i = 0; i < r.length; i++) {
     var first = r[i][0]
     var second = r[i][1]
       output('Proactive_Behavior_qualifier',first,second,answer,4)
-      output('Professionalism_qualifier',first,second,answer,3)
-      output('Quality_Control_qualifier',first,second,answer,2)
-      output('RecReliability_qualifierruiting_qualifier',first,second,answer,1)
-      output('Reliability_qualifier',first,second,answer,0)  
+    //   output('Professionalism_qualifier',first,second,answer,3)
+    //   output('Quality_Control_qualifier',first,second,answer,2)
+    //   output('RecReliability_qualifierruiting_qualifier',first,second,answer,1)
+    //   output('Reliability_qualifier',first,second,answer,0)  
 
-      output('Aggresiveness_qualifier',first,second,answer,8)
-      output('Autonomy_qualifier',first,second,answer,9)
-      output('Organization_qualifier',first,second,answer,7)
-      output('Passion_qualifier',first,second,answer,6)
-      output('Positive_Attitude_qualifier',first,second,answer,5)  
+    //   output('Aggresiveness_qualifier',first,second,answer,8)
+    //   output('Autonomy_qualifier',first,second,answer,9)
+    //   output('Organization_qualifier',first,second,answer,7)
+    //   output('Passion_qualifier',first,second,answer,6)
+    //   output('Positive_Attitude_qualifier',first,second,answer,5)  
 
 
-      output('Availability_qualifier',first,second,answer,10)
-      output('Building_Relationships_qualifier',first,second,answer,11)
-      output('Communication_Style_qualifier',first,second,answer,12)
+    //   output('Availability_qualifier',first,second,answer,10)
+    //   output('Building_Relationships_qualifier',first,second,answer,11)
+    //   output('Communication_Style_qualifier',first,second,answer,12)
 
 
     /*      if (r[i][0] = 'Documentation_qualifier' && answer[4] == 0) {
